@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">william20268</string>
+    <string name="DEBUG_MAINACTIVITY" />
+    <string name="apiGoogle" value="AIzaSyD9l-5PcYOzI5tHrTdCdY2BLL6puLXrMYk" />
+    <string name="title_activity_d_bikes">Map</string>
+    <string name="title_activity_my_maps">Map</string>
+    <string name="jcdeacux_api">https://api.jcdecaux.com/vls/v1/stations?contract=dublin</string>
+    <string name="key_jcdecaux">apiKey=163597812dfb8e11bcdaa6297a730b46529a5bcd></string>
+    <string name="save">SAVE</string>
+    <string name="latitude">lATITUDE</string>
+    <string name="address">ADDRESS</string>
+    <string name="longitude">LONGITUDE</string>
+    <string name="preferred_stations">PREFERRED STATIONS</string>
+</resources>
